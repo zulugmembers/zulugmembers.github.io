@@ -3,7 +3,7 @@ layout: post
 title: "Linux Network Troubleshooting 101"
 description: ""
 category: [Networking]
-tags: Troubleshooting,Bash,Introductory
+tags: Troubleshooting,Bash
 ---
 
 In this post we attempt to give you pointers on where to start looking when troubleshooting your network especially if you are starting out with Linux.
@@ -131,4 +131,5 @@ The table below lists a few common commands you might want to also use when work
 
 The above list of commands for checking network issues is not exhaustive and meant to just point you in the right direction
 
-Troubleshooting network issues is a broad topic and we have just scratched the surface.  
+Troubleshooting network issues is a broad topic and we have just scratched the surface. 
+Definitely lookout for more posts on this in future.
